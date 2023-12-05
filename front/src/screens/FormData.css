@@ -1,0 +1,25 @@
+h2{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+.userForm{
+    display:flex;
+    flex-direction: column;
+    width:40vw;
+    gap:2vh;
+    margin:0 auto;
+    margin-top: 2vh;
+
+}
+.userForm label{
+    font-size:20px;
+    font-weight: 500;
+
+}
+.userForm input{
+    border:none;
+    border-bottom: 1px solid black;
+    font-size:18px;
+
+}

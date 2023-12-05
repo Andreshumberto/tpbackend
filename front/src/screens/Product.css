@@ -1,0 +1,6 @@
+table {
+    table-layout: fixed;
+    width: 40%;
+    border-collapse: collapse;
+    border: 1px solid rgb(193, 212, 198);
+  }
