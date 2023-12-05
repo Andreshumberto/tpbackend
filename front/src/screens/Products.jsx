@@ -12,7 +12,7 @@ const Products=()=>{
     
     return(
         <>
-          <h1>"Zarate Productos para el Hogar"</h1>
+          <h1>"Zarate" - Productos para el Hogar</h1>
           <h3>Listado de Productos</h3>
           <table>
             <thead>
